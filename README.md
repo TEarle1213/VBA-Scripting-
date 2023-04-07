@@ -1,4 +1,4 @@
-# VBA Homework: The VBA of Wall Street
+# The VBA of Wall Street
 
 Created VBA script to analyze stock data across three years. 
     Script loops through and aggregates data for each ticker, showing total volume, annual change and percentage change for each ticker, output to a summary table for each year.
